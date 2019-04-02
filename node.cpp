@@ -17,7 +17,7 @@ Node 	get_left (Node node){
 }
 
 void 	set_left (Node node, Node left_node){
-  node->left=leftNode;
+  node->left= left_node;
 }
 
 Node 	get_right (Node node){
